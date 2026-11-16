@@ -2,8 +2,8 @@
 class Hush < Formula
   desc "Local-first meeting notes for macOS: no bot, on-device transcript, any AI"
   homepage "https://github.com/ainurfqq/hush-meetings"
-  url "https://github.com/ainurfqq/hush-meetings/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "02b802e7ac0c20b2b1f60e38dd2a18bb4026884162a1d0d25627b8f6f06ae650"
+  url "https://github.com/ainurfqq/hush-meetings/archive/refs/tags/v0.1.1.tar.gz"
+  sha256 "fdb24c805871cd2d3aeb3539d75c376c44ff25aa586d5674f442c21f4df705f8"
   license "MIT"
 
   depends_on arch: :arm64
